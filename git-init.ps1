@@ -69,6 +69,16 @@ $remotes = @(git remote)
 if ($remotes -contains 'origin') { git remote set-url origin $Remote } else { git remote add origin $Remote }
 if ($LASTEXITCODE -ne 0) { Fail 'Could not set remote origin.' }
 
+# Pull edits made in GitBook (Git Sync commits to GitHub) before pushing ours.
+git ls-remote --exit-code --heads origin main | Out-Null
+if ($LASTEXITCODE -eq 0) {
+  git pull --rebase origin main
+  if ($LASTEXITCODE -ne 0) {
+    git rebase --abort
+    Fail 'Local edits conflict with edits made in GitBook. Nothing was pushed; ask for help.'
+  }
+}
+
 git push -u origin main
 if ($LASTEXITCODE -ne 0) {
   Write-Host ''
