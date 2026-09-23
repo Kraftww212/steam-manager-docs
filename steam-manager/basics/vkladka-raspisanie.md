@@ -1,6 +1,10 @@
+---
+icon: clipboard-list-check
+---
+
 # Вкладка "Расписание"
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2FeJCrdd5w7RI0ZBFwShcA%2Fimage.png?alt=media&amp;token=534cfc91-7352-4296-89b3-6537a0ae511d" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 ## Страница «Расписание»
 

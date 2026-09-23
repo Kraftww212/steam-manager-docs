@@ -1,3 +1,7 @@
+---
+icon: tractor
+---
+
 # Вкладка "Фарм"
 
 ## Страница «Фарм»
@@ -15,7 +19,7 @@
 
 ### Режим «Карточки»
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2FHWVN8uP7sEePlQaJy1Ze%2Fimage.png?alt=media&amp;token=cf8de1bb-9e02-4ce5-a296-0fbce66aa523" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 #### Статистика (верхние блоки)
 
@@ -74,7 +78,7 @@
 
 Фарм предметов TF2 через подключение к Game Coordinator (GC).
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2Fpshitpdi95hxAX39qgae%2Fimage.png?alt=media&amp;token=e4ced063-bdea-460b-8edb-aea6837f4149" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 #### Статистика (верхние блоки)
 

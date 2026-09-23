@@ -1,13 +1,37 @@
+---
+icon: gears
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # Вкладка "Настройки"
 
 Хоть вкладка и находится в конце софта, но с неё планирую начать и вам советую.
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2F3XspOLCm9llRXnwacgHJ%2Fimage.png?alt=media&amp;token=c28248c2-c844-4265-9c95-73021b214c28" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 1. Заголовок софта — название, версия, тип подписки, до какого числа действительна | активный сервер лицензий.
 2. Основные вкладки — рассмотрим каждую отдельно. Под аккаунтами находится кнопка со всеми группами в софте: можно переключать, и во всех вкладках будет видна только выбранная группа.
 
-   <figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2FgD6zITlOh1bOkiQpKAHf%2Fimage.png?alt=media&amp;token=35a7b030-d016-46f3-bd80-b21a3a52726a" alt=""><figcaption></figcaption></figure>
+   <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
    Под группами видны курсы валют Steam (приходят с сервера лицензий), ниже продублирована информация о версии софта и подписке. Там же тумблер, чтобы скрыть названия вкладок и оставить только значки.
 3. Язык интерфейса — многое переведено на English, но советую использовать ру.

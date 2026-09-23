@@ -1,6 +1,10 @@
+---
+icon: star-sharp
+---
+
 # Вкладка "Community Leader"
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2FwYGGkAYmWIZ8qaJKKEz5%2Fimage.png?alt=media&amp;token=aca035e0-4198-4110-94f8-577df74e8c09" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### Страница «Community Leader»
 

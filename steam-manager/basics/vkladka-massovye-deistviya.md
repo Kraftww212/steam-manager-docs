@@ -1,6 +1,10 @@
+---
+icon: hand-back-point-up
+---
+
 # Вкладка "Массовые действия"
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2Fme3ErspLl6Vs5I02Zzme%2Fimage.png?alt=media&amp;token=85a82825-4c4e-49d6-a96d-177d33987c20" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ## Страница «Массовые действия»
 

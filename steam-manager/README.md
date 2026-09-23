@@ -1,3 +1,27 @@
+---
+icon: hand-wave
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+---
+
 # Всем QQ
 
 Steam Manager — софт для работы с большим количеством Steam-аккаунтов из одного окна: вход, инвентари, торговая площадка, трейды, покупки, фарм карточек, прогрев по расписанию. Поддержка и развитие лежат на моих плечах. Если вам нравится, что я делаю, порекомендуйте софт знакомым.
@@ -8,7 +32,7 @@ Steam Manager — софт для работы с большим количес�
 
 ### Кликай
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Ознакомление с софтом</strong></td><td>Все функции софта</td><td><a href="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2FypfxZP41ieKclWx55yRx%2Fimage.png?alt=media&amp;token=e2ef1118-febe-4b23-a827-c8e374a9bd86">image.png</a></td><td></td><td><a href="vozmozhnosti-softa/vse-funkcii.md">Все функции</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Ознакомление с софтом</strong></td><td>Все функции софта</td><td><a href=".gitbook/assets/image (26).png">image.png</a></td><td></td><td><a href="vozmozhnosti-softa/vse-funkcii.md">Все функции</a></td></tr></tbody></table>
 
 ### Быстрый старт
 

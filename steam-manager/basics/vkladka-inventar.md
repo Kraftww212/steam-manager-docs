@@ -1,6 +1,10 @@
+---
+icon: container-storage
+---
+
 # Вкладка "Инвентарь"
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2FjQ3V0rUSr1bGlZLKRqwE%2Fimage.png?alt=media&amp;token=9f6cff4b-f09d-49e8-ba66-67bd7dbaa3c3" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 Страница "Инвентарь" — основной раздел для работы с предметами всех аккаунтов. Объединяет инвентари, торговлю, аналитику и массовые операции.
 
@@ -14,6 +18,8 @@
 #### Просмотр
 
 Просмотр — открывает модальное окно инвентаря конкретного аккаунта (то же, что ПКМ → Инвентарь на странице Аккаунты).
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Модальное окно «Инвентарь»
 
@@ -32,7 +38,7 @@
 
 {% tab title="2. Все предметы" %}
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2F9y08SSeojvaOL5O3l5l8%2Fimage.png?alt=media&amp;token=93814a53-3c76-40d0-9339-d04ae04896ab" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 Агрегированный просмотр предметов по всем аккаунтам. Каждая строка — уникальный предмет: количество, цена, на скольких аккаунтах лежит, статусы.
 
@@ -55,7 +61,7 @@
 
 {% tab title="3. Трейд" %}
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2FcwWH2pXl3Tmojvhk1bbR%2Fimage.png?alt=media&amp;token=0891ef43-e361-4a53-b4f5-8f71b57aacb3" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 Массовая отправка предметов между аккаунтами: быстро распределить предметы с нескольких аккаунтов на одного получателя или по trade URL.
 
@@ -71,7 +77,7 @@
 
 {% tab title="4. FloatDB" %}
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2Fwvbn60jOaYM0kn68HiTs%2Fimage.png?alt=media&amp;token=906711ec-f011-40f1-9ba6-ca19d6029ad5" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 (Premium) Сканирование и аналитика float value скинов CS2 по всем аккаунтам: находит редкие скины и их ранг в мировой базе FloatDB.
 
@@ -85,7 +91,7 @@
 
 {% tab title="5. Хранилища" %}
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2Fce5Zypik3evu47WmvETT%2Fimage.png?alt=media&amp;token=c9d50bd7-ca26-458f-8a2c-db9ae70d9dd4" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 (Premium) Управление Storage Units CS2 через Game Coordinator.
 
@@ -93,12 +99,16 @@
 * Список хранилищ, заполненность (например, 382/1000), переименование
 * Клик по хранилищу — модалка: слева инвентарь, справа хранилище, между ними стрелки → (депозит) и ← (вывод)
 
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
 При выводе предметы доступны, даже если их нет в последнем веб-снимке инвентаря. Операции идут по одному предмету через GC — при больших объёмах это занимает время.
 {% endtab %}
 
 {% tab title="6. Крафт" %}
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2F9ETp773GbEQxHHKOjNqt%2Fimage.png?alt=media&amp;token=d38f6dea-9c09-49e4-af62-a5ac00d15522" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Крафт скинов CS2 через контракты обмена (Trade Up): 10 предметов одного качества → 1 предмет следующего уровня.
 
@@ -112,7 +122,7 @@
 
 {% tab title="7. Сеты" %}
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2FFUle4IpYJXBJe4PtRcLN%2Fimage.png?alt=media&amp;token=609d6726-62d1-40ee-b17d-23191b2b84d9" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Управление коллекционными карточками Steam: сборка полных сетов, кросс-аккаунт обмен, крафт значков.
 
@@ -137,7 +147,7 @@
 
 ### Панель покупки (BuyPanel)
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2FBDBTnO3gRsfkcb1SxNDR%2Fimage.png?alt=media&amp;token=8eca7e12-aab9-49a4-af37-370d8e01be77" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Покупка предметов через Buy Orders. Две вкладки: Поиск и Избранное.
 

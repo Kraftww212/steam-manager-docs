@@ -1,8 +1,12 @@
+---
+icon: users
+---
+
 # Вкладка "Аккаунты"
 
 ## 1. Главная страничка
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2FtcN5MWDmQhLEAaqtRr7K%2Fimage.png?alt=media&amp;token=5bdd0b5a-2556-4ef8-8cfb-c7c6cb40cbc4" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 1\. Войти во все — массовый логин всех аккаунтов в базе. Запускает параллельный вход (количество потоков настраивается в Настройках). Аккаунты авторизуются в Steam, получают куки сессии и становятся доступны для всех операций. Кнопка работает и после «Стоп».
 
@@ -12,7 +16,7 @@
 
 4\. Импорт — загрузка аккаунтов в базу. Поддерживает: TXT-файл (`login:password`, `login:password:shared_secret:identity_secret` и другие варианты, разделитель определяется по каждой строке), maFile-файлы, а также привязку maFiles из папки или ZIP к уже существующим аккаунтам. Если файл не прочитался — покажет ошибку, а не «0 ошибок».
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2F1TE7AnN7zCREF2vL8lrA%2Fimage.png?alt=media&amp;token=84eca0d8-09d6-42d2-83b4-c24a3ede74fa" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 5\. Добавить — ручное добавление одного аккаунта: логин, пароль, shared\_secret и другие данные. Логин должен быть уникальным, дубликат отклоняется с сообщением.
 
@@ -48,6 +52,8 @@
 
 Открывает расширенное меню: логин/логаут, редактирование, открыть инвентарь, запустить чекер, CL-прогресс, мобильные подтверждения, трейды, встроенный браузер Steam, копирование данных (login:pass, SteamID, 2FA-код, shared\_secret и др.), логи, генерация 2FA-кода, создание команды другому аккаунту, удаление. При множественном выделении массовые пункты применяются ко всем выбранным.
 
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
 *Выйти* — разлогинивает выбранный аккаунт. Статус меняется на "Оффлайн". Если аккаунт уже оффлайн — пункт будет "Войти".
 
 *Редактировать* — модальное окно с полями аккаунта: логин, пароль, shared\_secret, identity\_secret, email, прокси, trade URL и другие. Здесь же можно изменить данные авторизации.
@@ -58,7 +64,7 @@
 
 Открывает модальное окно с полным инвентарём аккаунта. Показывает предметы по играм (CS2, TF2, Steam, Dota 2 и др.) и их рыночную стоимость. Отсюда можно продать предметы на маркет или выбрать для трейда.
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2FH91OgQzLg4gAkUuVsSS6%2Fimage.png?alt=media&amp;token=8d8b28bc-d574-404b-b525-a73859779c75" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 Вкладки справа: Инвентарь / Сеты / Мои лоты:
 
@@ -74,7 +80,7 @@
 
 ### 2.2 Чекер
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2FeKtpkAM5zccBV47wK7jm%2Fimage.png?alt=media&amp;token=bc7dc71b-86e8-4adc-9243-e07c62beb4e5" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 Запускает полную проверку аккаунта: баланс кошелька, список лицензий/игр, VAC/Trade баны, статус Steam Guard, ограничения маркета. Если проверка не удалась (нет сессии, ошибка сети) — покажет текст ошибки, а не пустые значения и ложные «false».
 
@@ -93,6 +99,8 @@
 ***
 
 ### 2.3 CL прогресс
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Модальное окно "Community Leader" — прогресс выполнения заданий значка для конкретного аккаунта.
 

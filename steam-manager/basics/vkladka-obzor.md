@@ -1,6 +1,10 @@
+---
+icon: garage
+---
+
 # Вкладка "Обзор"
 
-<figure><img src="https://890104280-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgYLkm2P4moGZ7LimV51r%2Fuploads%2F4oB5iKzP8XJjrEPDSKEG%2Fimage.png?alt=media&amp;token=f73962ad-c572-4773-b68f-e83991aab32c" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 1\. Аккаунты — карточка показывает общее количество аккаунтов в базе (973), из них сколько сейчас онлайн (3), сколько оффлайн (971) и сколько с ошибкой. Позволяет быстро оценить состояние всех аккаунтов.
 
