@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Steam Manager
+  structure:
+    - type: space
+      key: space-1
+      title: Steam Manager
+      path: steam-manager
+      default: true
+      content:
+        directory: ./steam-manager
