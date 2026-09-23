@@ -14,7 +14,6 @@ icon: container-storage
 
 {% tabs %}
 {% tab title="1. Инвентарь" %}
-
 #### Просмотр
 
 Просмотр — открывает модальное окно инвентаря конкретного аккаунта (то же, что ПКМ → Инвентарь на странице Аккаунты).
@@ -37,7 +36,6 @@ icon: container-storage
 {% endtab %}
 
 {% tab title="2. Все предметы" %}
-
 <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 Агрегированный просмотр предметов по всем аккаунтам. Каждая строка — уникальный предмет: количество, цена, на скольких аккаунтах лежит, статусы.
@@ -60,7 +58,6 @@ icon: container-storage
 {% endtab %}
 
 {% tab title="3. Трейд" %}
-
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 Массовая отправка предметов между аккаунтами: быстро распределить предметы с нескольких аккаунтов на одного получателя или по trade URL.
@@ -76,7 +73,6 @@ icon: container-storage
 {% endtab %}
 
 {% tab title="4. FloatDB" %}
-
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 (Premium) Сканирование и аналитика float value скинов CS2 по всем аккаунтам: находит редкие скины и их ранг в мировой базе FloatDB.
@@ -90,7 +86,6 @@ icon: container-storage
 {% endtab %}
 
 {% tab title="5. Хранилища" %}
-
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 (Premium) Управление Storage Units CS2 через Game Coordinator.
@@ -99,13 +94,12 @@ icon: container-storage
 * Список хранилищ, заполненность (например, 382/1000), переименование
 * Клик по хранилищу — модалка: слева инвентарь, справа хранилище, между ними стрелки → (депозит) и ← (вывод)
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 При выводе предметы доступны, даже если их нет в последнем веб-снимке инвентаря. Операции идут по одному предмету через GC — при больших объёмах это занимает время.
 {% endtab %}
 
 {% tab title="6. Крафт" %}
-
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
@@ -121,7 +115,6 @@ icon: container-storage
 {% endtab %}
 
 {% tab title="7. Сеты" %}
-
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Управление коллекционными карточками Steam: сборка полных сетов, кросс-аккаунт обмен, крафт значков.
