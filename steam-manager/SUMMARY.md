@@ -21,5 +21,6 @@
 
 ## Обновления
 
+* [V 1.3.5](obnovleniya/v-1.3.5.md)
 * [V 1.3.4](obnovleniya/v-1.3.4.md)
 * [V 1.3.2](obnovleniya/v-1.3.2.md)
